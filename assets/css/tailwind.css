@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: "boldfashion";
+    src: url("../fonts/boldfashion.otf");
+}
+@font-face {
+    font-family: "mogula";
+    src: url("../fonts/mogula.otf");
+}
+@font-face {
+    font-family: "louscafe";
+    src: url("../fonts/lous-cafe.ttf");
+}
